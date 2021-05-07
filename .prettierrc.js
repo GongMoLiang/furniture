@@ -15,6 +15,8 @@ module.exports = {
 	// 对jsx语法无效
 	singleQuote: true,
 
+	endOfLine: 'auto',
+
 	// 末尾需要有逗号
 	trailingComma: 'es5',
 
@@ -39,5 +41,5 @@ module.exports = {
 
 	jsxBracketSameLine: false,
 
-	elsintIntergration: true
+	elsintIntergration: true,
 };
