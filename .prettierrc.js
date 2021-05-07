@@ -41,5 +41,9 @@ module.exports = {
 
 	jsxBracketSameLine: false,
 
+<<<<<<< HEAD
 	elsintIntergration: true,
+=======
+	elsintIntergration: true
+>>>>>>> c30875c50edbc16227437fd3cff1cada4d823c6b
 };
